@@ -18,9 +18,9 @@
 
  var trainName="";
  var distination="";
- var frequency= 20;
+ //var frequency= 0;
  var nextArrival="";
- var minutesAway=0;
+ //var minutesAway= 0;
 
  // $(document.ready(function() {
 
